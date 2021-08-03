@@ -8,7 +8,7 @@
    ## Who am I? 🐱‍🐉
    I'm Geovane Filho, or Vannisson if you prefer, and I'm from Arapiraca - Alagoas - Brazil. Currently, I am studying Computer Science at the Federal University of Alagoas (UFAL), and because of that, I'm always working on research programs at the faculty, such as the Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI). I started my career in programming at college 2 years ago, and now I am an enthusiast / researcher in areas such as Machine Learning and Web Development, with more focus on NLP.
    
-   ## I currently work with 🐱‍💻
+   ## I am currently working with 🐱‍💻
    After some years working and learning with programming, these are the technologies that I've learned how to use:
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
