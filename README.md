@@ -22,7 +22,7 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
 </div>
-   
+  
   ##  I am currently studying 🐱‍🏍📚
   I'm always trying to learn something new and these are the things that I'm focus on at this moment:
 <div style="display:inline_block">
