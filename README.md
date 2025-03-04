@@ -35,7 +35,7 @@ I'm not a huge fan of social networks, but I love video games and music, so thes
     </a>
 </div>
 
-<h2>Criminals' board 😥 </h2>
+<h2>Most Wanted Criminals 😥 </h2>
 The most notorious criminals of the 21st century—masters of mischief, chaos, and well-planned heists. Responsible for countless "crimes," including stolen food, knocked-over objects, and unexpected ambushes in the dead of night. Proceed with caution.
 <br></br>
 <div align="center"> 
