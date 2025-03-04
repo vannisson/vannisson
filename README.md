@@ -1,50 +1,54 @@
-<h1 align='center'>👨‍💻 Welcome to My Dev Journey 👨‍💻<h1>
- <div >
-  <a href="https://github.com/vannisson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vannisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannisson&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<h1 align='center'> Hi, I'm Geovane <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExMDE3NzcsIm5iZiI6MTc0MTEwMTQ3NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA0VDE1MTc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiNjcyYTY1YWM5YmMxOTM0ZTVkMGJjNGNmYmJmNDU1MTg3MzQ4NmNiYjlkZDFhY2JlZjAzYTJhZjA3ODQ3N2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4tSXICvpXA68w0DumrjTYIUMqPq3UGGUjtYsbtxgTLg" width="40"> </h1>
    
-   ## Who am I? 🤔
-   Hello, my name is Geovane and I am currently pursuing a master's degree in Extended Reality for Industrial Processes at the Computing Institute of the Federal University of Alagoas. My passion for computing has led me to explore various areas of study, including web systems development, machine learning algorithms, and virtual reality applications. However, I continue to expand my knowledge in other areas such as security, robotics, and DevOps. Feel free to send me a message!
-   
-   ## I am currently working with 🛠️
-   As someone passionate about computing, I'm always tinkering with something new. You can find different applications using various languages and technologies on my Github. Currently, I am mainly using the following technologies:
-   
-<div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="FastApi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img align="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-  <img align="center" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-   <br>
-<div style="display: inline_block">
-  <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="AdonisJS" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white">
-  <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img align="center" alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img align="center" alt="UnrealEngine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-  <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
- </div> 
-
-   
- ## You can find me here 🥳👇
- I'm not a huge fan of social networks, but I love video games and music, so these are the places where you can find me:
-   
-<div> 
-  <a href="https://www.linkedin.com/in/geovaneleitefilho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/geovanelcfilho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:geovane.filho@arapiraca.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/geovanef/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/user/drks2877" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  
-
-
+<p align="justify">
+  I'm a <strong>R&D Software Engineer</strong> in the automation department of <strong>WEG S.A</strong> and I am currently pursuing a Master’s degree in Computer Science at the Federal University of Alagoas, specializing in Fleet Management, Digital Twins, and Autonomous Guided Vehicles (AGVs). 
  
+ Based in Jaraguá do Sul, Santa Catarina, I have a deep passion for computing that has led me to explore a variety of fields—web development, machine learning, computer graphics, and robotics. While my main expertise is in web and desktop application development, I’m always diving into new challenges in R&D, expanding my skills, and pushing boundaries.
+
+ Feel free to send me a message! 📬  
+</p>
+
+<h2>Main Tech Skills 🛠️</h2>
+Web and desktop application development are my main expertise, but I'm always eager to learn something new. I also have a strong interest in game development and love exploring its possibilities.
+<br></br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,java,js,docker,fastapi,flask,express,nestjs,vue,react,threejs" />
+  </a>
+</p>
+
+<h2>Social Networks 🌎</h2>
+
+I'm not a huge fan of social networks, but I love video games and music, so these are the places where you can find me:
+<br></br>
+<div align="center">
+    <a href="https://www.linkedin.com/in/geovanelcfilho/" target="_blank" style="text-decoration: none;">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" hspace="10">
+    </a>
+    <a href="mailto:geovanelcfilho@gmail.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" hspace="10">
+    </a>
+    <a href="https://steamcommunity.com/id/geovanef" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" hspace="10">
+    </a>
+    <a href="https://open.spotify.com/user/drks2877" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" hspace="10">
+    </a>
 </div>
+
+<h2>Criminals' board 😥 </h2>
+The most notorious criminals of the 21st century—masters of mischief, chaos, and well-planned heists. Responsible for countless "crimes," including stolen food, knocked-over objects, and unexpected ambushes in the dead of night. Proceed with caution.
+<br></br>
+<div align="center"> 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/vannisson/vannisson/blob/main/kotarou.gif?raw=true" width="150" height="200"/>
+      <p align="center"> Kotarou </p>
+    </td>
+    <td >
+      <img src="https://github.com/vannisson/vannisson/blob/main/katsura.gif?raw=true" width="150" height="200"/>
+      <p align="center"> Katsura </p>
+    </td>
+  </tr>
+</table>
