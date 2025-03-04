@@ -20,7 +20,6 @@ Web and desktop application development are my main expertise, but I'm always ea
 <h2>Social Networks 🌎</h2>
 
 I'm not a huge fan of social networks, but I love video games and music, so these are the places where you can find me:
-<br></br>
 <div align="center">
     <a href="https://www.linkedin.com/in/geovanelcfilho/" target="_blank" style="text-decoration: none;">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" hspace="10">
