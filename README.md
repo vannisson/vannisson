@@ -1,9 +1,9 @@
 <h1 align='center'> Hi, I'm Geovane <img src="https://media.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="40"> </h1>
    
 <p align="justify">
-  I'm a <strong>R&D Software Engineer</strong> in the automation department of <strong>WEG S.A</strong> and I am currently pursuing a Master’s degree in Computer Science at the Federal University of Alagoas, specializing in Fleet Management, Digital Twins, and Autonomous Guided Vehicles (AGVs). 
+  I'm a <strong>Software Developer</strong> at <strong>Inovaxio</strong> and I am currently pursuing a Master’s degree in Computer Science at the Federal University of Alagoas, specializing in Fleet Management, Digital Twins, and Autonomous Guided Vehicles (AGVs). 
  
- Based in Jaraguá do Sul, Santa Catarina, I have a deep passion for computing that has led me to explore a variety of fields—web development, machine learning, computer graphics, and robotics. While my main expertise is in web and desktop application development, I’m always diving into new challenges in R&D, expanding my skills, and pushing boundaries.
+ Based in Maceió, Alagoas, I have a deep passion for computing that has led me to explore a variety of fields—web development, machine learning, computer graphics, and robotics. While my main expertise is in web and desktop application development, I’m always diving into new challenges in R&D, expanding my skills, and pushing boundaries.
 
  Feel free to send me a message! 📬  
 </p>
